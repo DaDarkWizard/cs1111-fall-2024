@@ -17,7 +17,7 @@ int main()
     answer = 'n';
 
     // Print the values.
-    printf("The answer is %c\n", answer);
+    printf("The answer is %d\n", answer);
 
     // Exit successfully
     return 0;

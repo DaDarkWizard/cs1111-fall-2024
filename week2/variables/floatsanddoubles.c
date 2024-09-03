@@ -25,8 +25,8 @@ int main()
     printf("The total is %lf\n", sum);
     
     // Precision example:
-    // printf("2.0 is %.32lf\n", 2.0);
-    // printf("sqrt(2.0) * sqrt(2.0) is %.32lf\n", sqrt(2.0) * sqrt(2.0));
+    printf("2.0 is %.32lf\n", 2.0);
+    printf("sqrt(2.0) * sqrt(2.0) is %.32lf\n", sqrt(2.0) * sqrt(2.0));
 
     // Exit successfully
     return 0;

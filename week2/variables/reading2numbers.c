@@ -15,6 +15,8 @@ int main()
     int num2;
     int sum;
 
+    num1 = 5;
+
     // Assign our values.
     printf("Please enter number 1:");
     scanf("%d", &num1);

@@ -17,7 +17,7 @@ int main()
 
     // Assign our values.
     num1 = 3;
-    num2 = 5;
+    num2 = 1;
     sum = num1 + num2;
 
     // Print the values.
