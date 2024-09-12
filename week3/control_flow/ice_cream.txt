@@ -1,0 +1,1 @@
+Write a program that asks the user what their favorite ice cream and topping is. Then tell it back to them in a sentence.
