@@ -20,7 +20,7 @@ char *prompt = "What's your favorite ice cream flavor and topping? ";
 
     // Read in user text
     // Assign responses to variables
-    scanf("%s %s", iceCreamFlavor, topping);
+    scanf("%s %s", &iceCreamFlavor, topping);
     // scanf("%s", iceCreamFlavor);
     // scanf("%s", topping);
 
