@@ -1,0 +1,14 @@
+What happens if you try to access an element outside the bounds of an array?
+
+a) The program will terminate with an error.
+
+b) The compiler will generate a warning.
+
+c) It will access a random memory location, leading to unpredictable behavior.
+
+d) It will "wrap around" and access an element from the beginning of the array.
+
+
+Correct answer= none of these - the program might terminate, might generate
+a warning, but will have unpredictable behavior.
+It does not wrap around.

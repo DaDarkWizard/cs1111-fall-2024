@@ -1,0 +1,14 @@
+What is the output of the following code snippet?
+
+int arr[4] = {10, 20, 30, 40, 50};
+printf("%d", arr[3])
+
+a) 10
+
+b) 30
+
+c) 40
+
+d) 50
+
+answer = c
