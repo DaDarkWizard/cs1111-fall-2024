@@ -21,6 +21,11 @@
  */
 int insertLinkedList(Node **head, int index, int value)
 {
+    // Make sure the index is within a reasonable bounds.
+    if (index < 0)
+    {
+        return -1;
+    }
     // Allocate some memory for the new node.
     Node *newNode = malloc(sizeof(Node));
     if (newNode == NULL)
