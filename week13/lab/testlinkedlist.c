@@ -11,6 +11,8 @@
 
 #include <stdio.h>
 
+int global;
+
 Node *testAddLinkedList()
 {
     // Make sure to initialize to NULL!
